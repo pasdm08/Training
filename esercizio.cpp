@@ -10,6 +10,7 @@ int main() {
 	cin>>a;
 	cout<<"inserisci numero"<<endl;
 	cin>>b;
+	c=a+b;
 	cout<<"la somma dei due numeri e': "<<c<<endl;
 	
 	
