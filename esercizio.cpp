@@ -13,7 +13,7 @@ int main() {
 	c=a+b;
 	cout<<"la somma dei due numeri e': "<<c<<endl;
 	
-	
+	cout<<"fine programma"<<endl;
 	
 	
 }
